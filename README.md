@@ -1,4 +1,5 @@
-.running-text {
+<script>
+  .running-text {
   font-size: 2rem;
   white-space: nowrap; /* Prevents the text from wrapping */
   overflow: hidden; /* Ensures content stays within the bounds of the container */
@@ -14,6 +15,8 @@
     transform: translateX(-100%); /* Move to the left */
   }
 }
+
+</script>
 
 <h1 class="running-text" align="center">Hi 👋, I'm Lakshay</h1>
 
