@@ -1,4 +1,22 @@
-<h1 align="center">Hi 👋, I'm Lakshay</h1>
+.running-text {
+  font-size: 2rem;
+  white-space: nowrap; /* Prevents the text from wrapping */
+  overflow: hidden; /* Ensures content stays within the bounds of the container */
+  display: inline-block;
+  animation: run 10s linear infinite;
+}
+
+@keyframes run {
+  0% {
+    transform: translateX(100%); /* Start off to the right */
+  }
+  100% {
+    transform: translateX(-100%); /* Move to the left */
+  }
+}
+
+<h1 class="running-text" align="center">Hi 👋, I'm Lakshay</h1>
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay7777&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay7777" /> </p>
