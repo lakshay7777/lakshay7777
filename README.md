@@ -1,24 +1,4 @@
-<script>
-  .running-text {
-  font-size: 2rem;
-  white-space: nowrap; /* Prevents the text from wrapping */
-  overflow: hidden; /* Ensures content stays within the bounds of the container */
-  display: inline-block;
-  animation: run 10s linear infinite;
-}
-
-@keyframes run {
-  0% {
-    transform: translateX(100%); /* Start off to the right */
-  }
-  100% {
-    transform: translateX(-100%); /* Move to the left */
-  }
-}
-
-</script>
-
-<h1 class="running-text" align="center">Hi 👋, I'm Lakshay</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BFF71A&background=FF2E0700&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshay" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate backend developer from India</h3>
 
