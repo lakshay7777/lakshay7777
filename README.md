@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **java, python, django, jquery, ajax,**
 
-- 📫 How to reach me **lakshaykhatri0101@gmail.com**
+- 📫 How to reach me **btech2022.lakhay@rietjaipur.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12sY2Ndvvs2pBgzKK44_3TxM6Zbj7oXvv/view?usp=drivesdk](https://drive.google.com/file/d/12sY2Ndvvs2pBgzKK44_3TxM6Zbj7oXvv/view?usp=drivesdk)
 
