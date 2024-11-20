@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img class="multicolortext" src="https://readme-typing-svg.herokuapp.com?font=baloo+paaji+2&weight=500&size=36&pause=1000&color=#f1c40f&background=FF2E0700&width=690&height=52&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshay" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img class="multicolortext" src="https://readme-typing-svg.herokuapp.com?font=baloo+paaji+2&weight=500&size=36&pause=1000&color=BFF71A&background=FF2E0700&width=690&height=52&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshay" alt="Typing SVG" /></a>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay7777&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay7777" /> </p>
