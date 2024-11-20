@@ -1,14 +1,19 @@
 <style>
-      .multicolortext {
-        background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
-        -webkit-background-clip: text;
-        -moz-background-clip: text;
-        background-clip: text;
-        color: transparent;
-      }
-    </style>
+  .multicolortext {
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Baloo Paaji 2', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    white-space: nowrap;
+  }
+</style>
 
-<a href="https://git.io/typing-svg"><img class="multicolortext" src="https://readme-typing-svg.herokuapp.com?font=baloo+paaji+2&weight=500&size=36&pause=1000&color=BFF71A&background=FF2E0700&width=690&height=52&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshay" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" class="multicolortext">Hi 👋, I'm Lakshay</a>
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay7777&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay7777" /> </p>
